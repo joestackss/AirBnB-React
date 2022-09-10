@@ -75,11 +75,8 @@ span {
   width: 200px;
   font-size: 12px;
   flex: 0 0 auto;
-  /* ADD */
   display: flex;
-  /* ADD */
   flex-direction: row;
-  /* ADD */
   position: relative;
   flex-wrap: wrap;
   text-align: left;
@@ -193,11 +190,8 @@ span {
     width: 175px;
     font-size: 12px;
     flex: 0 0 auto;
-    /* ADD */
     display: flex;
-    /* ADD */
     flex-direction: column;
-    /* ADD */
     position: relative;
     flex-wrap: wrap;
   }
