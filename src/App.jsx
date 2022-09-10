@@ -20,6 +20,12 @@ function App() {
     );
   });
 
+  // TO KEEP OUR CODE DRYER, YOU CAN USE THE BELOW CODE
+
+  // const cards = data.map((item) => {
+  //   return <Card key={item.id} item={item} />;
+  // });
+
   return (
     <div>
       <Navbar />
